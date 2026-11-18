@@ -20,10 +20,12 @@ Logic gates are the basic building blocks of digital systems. NAND and NOR are u
 File name	Purpose
 logic_gates.v	Logic-gate RTL
 logic_gates_tb.v	All input combinations and VCD generation
- # Verilog  Program :<img width="1900" height="1028" alt="{E974B840-F201-4895-BF8D-8E4F1E24289D}" src="https://github.com/user-attachments/assets/03e128fe-fd45-4ba8-b88b-af434b01f187" />
+ # Verilog  Program :<img width="417" height="376" alt="Screenshot 2026-11-18 110841" src="https://github.com/user-attachments/assets/9c971acb-ad01-456d-83c1-2fb3db4a3a14" />
 
 
-# **Test Bench Program** :<img width="1900" height="1028" alt="{E974B840-F201-4895-BF8D-8E4F1E24289D}" src="https://github.com/user-attachments/assets/f1d00410-20c3-4d1d-8a2c-bf1085baeb8c" />
+
+# **Test Bench Program** :<img width="769" height="843" alt="Screenshot 2026-11-18 110924" src="https://github.com/user-attachments/assets/39008c0d-d686-485b-ac3e-5f4d898bade5" />
+
 
 
 
